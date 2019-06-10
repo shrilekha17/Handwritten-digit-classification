@@ -12,6 +12,6 @@ Since the MNIST dataset is quite popular in the research community. I was motiva
 2. Chapter 2
 * [K-Nearest-Neighbour](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/KNN%20(1).ipynb)
 3. Chapter 3
-* [Setup](#setup)
+* [Logistic Regression](#setup)
 
 
