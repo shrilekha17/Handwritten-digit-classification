@@ -8,3 +8,9 @@ Since the MNIST dataset is quite popular in the research community. I was motiva
 To better visualize the high dimensional digit data set I used the algorithm, namely, t-SNE. It helps to visualize the high dimensional data in 2-D or 3-D. You can find more about this algorithm at http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 
 
+**Table of contents**
+Chapter 1
+*Data Preprocessing and Visualization.ipynb
+
+
+
