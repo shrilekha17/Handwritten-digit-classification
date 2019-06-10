@@ -10,7 +10,7 @@ Since the MNIST dataset is quite popular in the research community. I was motiva
 1. Chapter 1
 * [Data Preprocessing and Visualization.ipynb](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Data%20Preprocessing%20and%20its%20Visualization%20.ipynb)
 2. Chapter 2
-* [Technologies](#technologies)
+* [K-Nearest-Neighbour](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/KNN%20(1).ipynb)
 3. Chapter 3
 * [Setup](#setup)
 
