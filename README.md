@@ -9,7 +9,7 @@ To better visualize the high dimensional digit data set I used the algorithm, na
 
 
 ## Table of contents
-* [Data Preprocessing and Visualization.ipynb](#general-info)
+* [Data Preprocessing and Visualization.ipynb](#https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Data%20Preprocessing%20and%20Visualization.ipynb)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
