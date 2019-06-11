@@ -6,12 +6,16 @@ Since the MNIST dataset is quite popular in the research community. I was motiva
 
 
 
-## Table of contents
-1. Chapter 1
+## Data vizualization and ML algorithms
+
 * [Data Preprocessing and Visualization.ipynb](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Data%20Preprocessing%20and%20its%20Visualization%20.ipynb)
-2. Chapter 2
+
 * [K-Nearest-Neighbour](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/KNN%20(1).ipynb)
-3. Chapter 3
-* [Logistic Regression](#setup)
+
+* [Logistic Regression](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Logistic_Regression_final.ipynb)
+
+* [Support Vector Machine](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Support_Vector_Machine.ipynb)
+
+*[Random Forest](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Ensemble_Learning_final.ipynb)
 
 
