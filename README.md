@@ -16,6 +16,6 @@ Since the MNIST dataset is quite popular in the research community. I was motiva
 
 * [Support Vector Machine](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Support_Vector_Machine.ipynb)
 
-*[Random Forest](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Ensemble_Learning_final.ipynb)
+* [Random Forest](https://github.com/shrilekha17/Handwritten-digit-classification/blob/master/Ensemble_Learning_final.ipynb)
 
 
